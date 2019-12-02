@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-New info3
-=======
-New info2
->>>>>>> 7a4ffefcea454a62d905cb33602eb5563d840cbc
+123
